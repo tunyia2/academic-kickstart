@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "NHLBI NIH", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait1.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jude.tunyi@nih.gov"
   address = "Bldg. 12A Room 3053-H, 12 South Dr. Bethesda, MD 20814"
   office_hours = "Email for appointment"
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
