@@ -10,31 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Protein-Lipid Interactions",
+    "Computational Chemistry and Biology",
+    "Neuroscience"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biochemistry"
+  institution = "University of Washington-Seattle"
+  year = 2017
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jude Tunyi is a post-baccalaureate IRTA research fellow at the National Heart, Lung and Blood Institute (NHLBI) at the National Institutes of Health (NIH). His research interests include studying protein-lipid interactions at membrane interfaces using computational tools like CHARMM and GROMACS. He is also interested in wet-lab experimentation especially lipid solubilization, cholesterol efflux and cell culture experiments. He is part of the Pastor Research Group in the Laboratory of Membrane Biophysics and Dr. Remaley's group in the Lipid Metabolism Section. He hopes to move onto an MD-PhD after his post-bac fellowship with a specialty in neuroscience or computational science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Veni. Vidi. Vici.  
